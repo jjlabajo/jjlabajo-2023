@@ -19,7 +19,7 @@ const StyledHeroSection = styled.section`
 
   h1 {
     margin: 0 0 30px 4px;
-    color: var(--green);
+    color: var(--yellow);
     font-family: var(--font-mono);
     font-size: clamp(var(--fz-sm), 5vw, var(--fz-md));
     font-weight: 400;
@@ -65,17 +65,14 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in back-end infrastructures and APIs; occasionally
-        building full-stack projects. Currently, I’m looking to build my first SaaS.
-        <br />
-        <br />
-        Got a SaaS idea? Let's collab!
+        I’m a software engineer specializing in back-end infrastructures and APIs, I offer expertise
+        in designing and building scalable and reliable software solutions.
       </p>
     </>
   );
   const five = (
     <a className="email-link" href="mailto:jjlabajoweb@gmail.com" target="_blank" rel="noreferrer">
-      Email me!
+      Say Hi
     </a>
   );
 

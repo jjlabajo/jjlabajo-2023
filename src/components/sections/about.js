@@ -39,7 +39,7 @@ const StyledText = styled.div`
         content: '▹';
         position: absolute;
         left: 0;
-        color: var(--green);
+        color: var(--yellow);
         font-size: var(--fz-sm);
         line-height: 12px;
       }
@@ -61,7 +61,7 @@ const StyledPic = styled.div`
     position: relative;
     width: 100%;
     border-radius: var(--border-radius);
-    background-color: var(--green);
+    background-color: var(--yellow);
 
     &:hover,
     &:focus {
@@ -81,8 +81,6 @@ const StyledPic = styled.div`
     .img {
       position: relative;
       border-radius: var(--border-radius);
-      mix-blend-mode: multiply;
-      filter: grayscale(100%) contrast(1);
       transition: var(--transition);
     }
 
@@ -100,12 +98,12 @@ const StyledPic = styled.div`
     &:before {
       top: 0;
       left: 0;
-      background-color: var(--navy);
+      background-color: var(--black);
       mix-blend-mode: screen;
     }
 
     &:after {
-      border: 2px solid var(--green);
+      border: 2px solid var(--yellow);
       top: 20px;
       left: 20px;
       z-index: -1;
@@ -135,15 +133,24 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Joe June and I enjoy creating platforms in cyberspace. Oftentimes, I
-              help people build their businesses by providing professional and exceptional digital
-              services.
+              Hello! My name is Joe June, I'm a dedicated and experienced developer with a passion
+              for creating innovative platforms in cyberspace. My goal is to help businesses and
+              individuals achieve their goals by providing exceptional digital services that are
+              tailored to their specific needs.
+            </p>
+            <p>
+              With over 4 years of experience in the field, I have a deep understanding of the
+              latest technologies and tools that are used to build applications and platforms. I
+              have the skills and knowledge to create platforms that are user-friendly, efficient,
+              and scalable, making sure that the final product meets the customer's expectations.
             </p>
 
             <p>
-              I started loving computers when I first met one, I was 10 years old back then. After
-              15 years, here I am building applications, and platforms that solve problems.
+              One of the things that sets me apart from others is my ability to think outside the
+              box and come up with unique solutions for complex problems. I am able to understand my
+              client's vision and turn it into a reality.
             </p>
+
             <p>Here are a few technologies I’ve been working with recently:</p>
           </div>
 

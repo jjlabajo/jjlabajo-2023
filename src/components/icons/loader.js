@@ -15,7 +15,7 @@ const IconLoader = () => (
       ry="0"
       transform="matrix(.707107-.707107 0.707107 0.707107 52.262559 149.999997)"
       fill="none"
-      stroke="#64ffda"
+      stroke="#FFD073"
       strokeWidth="5"
     />
     <text
@@ -26,7 +26,7 @@ const IconLoader = () => (
       fontSize="20"
       fontWeight="500"
       transform="matrix(6.138132 0 0 6.138132 97.247089 183.432018)"
-      fill="#64ffda"
+      fill="#FFD073"
       strokeWidth="0"
     >
       <tspan y="0" fontWeight="500" strokeWidth="0">
