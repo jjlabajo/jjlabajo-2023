@@ -1,5 +1,13 @@
 import React from 'react';
 
-const IconLogo = () => <img src="/logo.png" alt="An SVG of an eye" />;
+import { StaticImage } from 'gatsby-plugin-image';
+
+const IconLogo = () => (
+  <StaticImage
+    src="../../images/logo-border.png"
+    formats={['AUTO', 'WEBP', 'PNG']}
+    alt="Headshot"
+  />
+);
 
 export default IconLogo;
