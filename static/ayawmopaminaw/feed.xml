@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+     xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:spotify="http://www.spotify.com/ns/rss"
+     >
+    <channel>
+                <title>AMP Podcast</title>
+        <atom:link href="https://jjlabajo.com/ayawmopaminaw/feed.xml" rel="self" type="application/rss+xml"/>
+        <link>ayawmopaminaw.s3.us-east-2.amazonaws.com</link>
+        <description>AMP &quot;Ayaw Mo Paminaw&quot; Podcast is a Bisaya show hosted in the Philippines for Bisaya people and to people who understand the Bisaya language. This podcast primarily focuses on entertainment and learning and various strange theories.  Dive deep with us as we explore an endless sea of possibilities and ideas that we love to share with you.</description>
+        <lastBuildDate>Mon, 01 Mar 2021 18:01:00 +0000</lastBuildDate>
+        <language>en-ph</language>
+        <copyright>© 2021</copyright>
+        <managingEditor>amppodcast666@gmail.com</managingEditor>
+        
+        <spotify:countryOfOrigin>
+            PH  
+        </spotify:countryOfOrigin>
+                    <image>
+                <url>https://jjlabajo.com/ayawmopaminaw/cover+arts/AMP+Cover+Art.png</url>
+                <title>AMP Podcast</title>
+                <link>ayawmopaminaw.s3.us-east-2.amazonaws.com</link>
+            </image>
+                <itunes:subtitle>AMP &quot;Ayaw Mo Paminaw&quot; Podcast is a Bisaya show hosted in the Philippines for Bisaya people and to people who understand the Bisaya language. This podcast primarily focuses on entertainment and learning and various strange theories.  Dive deep with us as we explore an endless sea of possibilities and ideas that we love to share with you.</itunes:subtitle>
+        <itunes:author>Ayaw Mo Paminaw</itunes:author>
+                <itunes:summary>AMP &quot;Ayaw Mo Paminaw&quot; Podcast is a Bisaya show hosted in the Philippines for Bisaya people and to people who understand the Bisaya language. This podcast primarily focuses on entertainment and learning and various strange theories.  Dive deep with us as we explore an endless sea of possibilities and ideas that we love to share with you.</itunes:summary>
+        <itunes:owner>
+            <itunes:name>Ayaw Mo Paminaw</itunes:name>
+            <itunes:email>amppodcast666@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:explicit>clean</itunes:explicit>
+                    <itunes:image href="https://jjlabajo.com/ayawmopaminaw/cover+arts/AMP+Episode+18.png"></itunes:image>
+                                                                <itunes:category text="Comedy">
+                                            </itunes:category>
+                                                                <itunes:category text="Society &amp; Culture">
+                                                    <itunes:category text="Philosophy"></itunes:category>
+                                            </itunes:category>
+                                                                <itunes:category text="Leisure">
+                                            </itunes:category>
+                                            <googleplay:author>Ayaw Mo Paminaw</googleplay:author>
+        <googleplay:email>amppodcast666@gmail.com</googleplay:email>
+        <googleplay:description>AMP &quot;Ayaw Mo Paminaw&quot; Podcast is a Bisaya show hosted in the Philippines for Bisaya people and to people who understand the Bisaya language. This podcast primarily focuses on entertainment and learning and various strange theories.  Dive deep with us as we explore an endless sea of possibilities and ideas that we love to share with you.</googleplay:description>
+        <googleplay:explicit>No</googleplay:explicit>
+                    <googleplay:image href="https://jjlabajo.com/ayawmopaminaw/cover+arts/AMP+Episode+18.png"></googleplay:image>
+                    <item>
+                <title><![CDATA[Ep23 - Toxic Parenting: Pinoy Edition]]></title>
+                <pubDate>Tue, 24 Jan 2023 08:51:16 +0000</pubDate>
+                <dc:creator>Ayaw Mo Paminaw</dc:creator>
+                <guid isPermaLink="true">https://jjlabajo.com/ayawmopaminaw/episodes/23.m4a</guid>
+                <description><![CDATA[<p>Are Filipino parents really that toxic? Do Filipino parents need to seek help if they are struggling with their parenting methods and to prioritize the well-being and safety of their children? Let's talk about the harmful and long-lasting negative effects on the child's mental and emotional well-being on this toxicity.</p>]]></description>
+                <itunes:subtitle><![CDATA[Are Filipino parents really that toxic? Do Filipino parents need to seek help if they are struggling with their parenting methods and to prioritize the well-being and safety of their children? Let's talk about the harmful and long-lasting negative effects on the child's mental and emotional well-being on this toxicity.]]></itunes:subtitle>
+                                    <itunes:episodeType>full</itunes:episodeType>
+                                <itunes:title><![CDATA[Ep23 - Toxic Parenting: Pinoy Edition]]></itunes:title>
+                                    <itunes:episode>23</itunes:episode>
+                                                    <itunes:season>2</itunes:season>
+                                <content:encoded><![CDATA[<p>Are Filipino parents really that toxic? Do Filipino parents need to seek help if they are struggling with their parenting methods and to prioritize the well-being and safety of their children? Let's talk about the harmful and long-lasting negative effects on the child's mental and emotional well-being on this toxicity.</p>]]></content:encoded>
+                                    <enclosure url="https://jjlabajo.com/ayawmopaminaw/episodes/23.m4a" length="00:59:44" type="audio/x-m4a"/>
+                                <itunes:summary><![CDATA[Are Filipino parents really that toxic? Do Filipino parents need to seek help if they are struggling with their parenting methods and to prioritize the well-being and safety of their children? Let's talk about the harmful and long-lasting negative effects on the child's mental and emotional well-being on this toxicity.]]></itunes:summary>
+                                    <itunes:image href="https://jjlabajo.com/ayawmopaminaw/cover+arts/AMP+Episode+23.png"></itunes:image>
+                                                                            <itunes:duration>00:59:44</itunes:duration>
+                                                    <itunes:author><![CDATA[Ayaw Mo Paminaw]]></itunes:author>
+                <googleplay:description><![CDATA[Are Filipino parents really that toxic? Do Filipino parents need to seek help if they are struggling with their parenting methods and to prioritize the well-being and safety of their children? Let's talk about the harmful and long-lasting negative effects on the child's mental and emotional well-being on this toxicity.]]></googleplay:description>
+                                    <googleplay:image href="https://jjlabajo.com/ayawmopaminaw/cover+arts/AMP+Episode+23.png"></googleplay:image>
+                            </item>
+                    <item>
+                <title><![CDATA[Ep22 - Pinoy Baiting]]></title>
+                <pubDate>Wed, 01 Sep 2021 08:51:16 +0000</pubDate>
+                <dc:creator>Ayaw Mo Paminaw</dc:creator>
+                <guid isPermaLink="true">https://jjlabajo.com/ayawmopaminaw/episodes/22.m4a</guid>
+                <description><![CDATA[<p>Filipinos are the Biggest consumers in the Internet and Social Media. No wonder we're the ones who are prone to this kind of baiting. But Why? Is this a Problem? Should we really be concern about this? Let's talk about Pinoy Baiting, Pinoy Resiliency , NAS Daily Issue and more.</p>]]></description>
+                <itunes:subtitle><![CDATA[Filipinos are the Biggest consumers in the Internet and Social Media. No wonder we're the ones who are prone to this kind of baiting. But Why? Is this a Problem? Should we really be concern about this? Let's talk about Pinoy Baiting, Pinoy Resiliency , NAS Daily Issue and more.]]></itunes:subtitle>
+                                    <itunes:episodeType>full</itunes:episodeType>
+                                <itunes:title><![CDATA[Ep22 - Pinoy Baiting]]></itunes:title>
+                                    <itunes:episode>22</itunes:episode>
+                                                    <itunes:season>1</itunes:season>
+                                <content:encoded><![CDATA[<p>Filipinos are the Biggest consumers in the Internet and Social Media. No wonder we're the ones who are prone to this kind of baiting. But Why? Is this a Problem? Should we really be concern about this? Let's talk about Pinoy Baiting, Pinoy Resiliency , NAS Daily Issue and more.</p>]]></content:encoded>
+                                    <enclosure url="https://jjlabajo.com/ayawmopaminaw/episodes/22.m4a" length="01:00:43" type="audio/x-m4a"/>
+                                <itunes:summary><![CDATA[Filipinos are the Biggest consumers in the Internet and Social Media. No wonder we're the ones who are prone to this kind of baiting. But Why? Is this a Problem? Should we really be concern about this? Let's talk about Pinoy Baiting, Pinoy Resiliency , NAS Daily Issue and more.]]></itunes:summary>
+                                    <itunes:image href="https://jjlabajo.com/ayawmopaminaw/cover+arts/AMP+Episode+22.png"></itunes:image>
+                                                                            <itunes:duration>01:00:43</itunes:duration>
+                                                    <itunes:author><![CDATA[Ayaw Mo Paminaw]]></itunes:author>
+                <googleplay:description><![CDATA[Filipinos are the Biggest consumers in the Internet and Social Media. No wonder we're the ones who are prone to this kind of baiting. But Why? Is this a Problem? Should we really be concern about this? Let's talk about Pinoy Baiting, Pinoy Resiliency , NAS Daily Issue and more.]]></googleplay:description>
+                                    <googleplay:image href="https://jjlabajo.com/ayawmopaminaw/cover+arts/AMP+Episode+22.png"></googleplay:image>
+                            </item>
+                    <item>
+                <title><![CDATA[Ep21 - Am I Real?]]></title>
+                <pubDate>Tue, 03 Aug 2021 08:51:16 +0000</pubDate>
+                <dc:creator>Ayaw Mo Paminaw</dc:creator>
+                <guid isPermaLink="true">https://jjlabajo.com/ayawmopaminaw/episodes/21.m4a</guid>
+                <description><![CDATA[<p>Are we really living in a Simulation? the Earth, the people will know and meet, the Universe we observe, are these only just an Artificial Simulation? a Computer Simulation? Well, we really don't know yet. Why does this thought even matter? Does knowing the truth would make any difference on how you will live your life? Find out on this Episode about the Simulation Theory, Mandela Effect, Deja Vu, Video Games, Simulation Movies, and MORE.</p>]]></description>
+                <itunes:subtitle><![CDATA[Are we really living in a Simulation? the Earth, the people will know and meet, the Universe we observe, are these only just an Artificial Simulation? a Computer Simulation? Well, we really don't know yet. Why does this thought even matter? Does knowing the truth would make any difference on how you will live your life? Find out on this Episode about the Simulation Theory, Mandela Effect, Deja Vu, Video Games, Simulation Movies, and MORE.]]></itunes:subtitle>
+                                    <itunes:episodeType>full</itunes:episodeType>
+                                <itunes:title><![CDATA[Ep21 - Am I Real?]]></itunes:title>
+                                    <itunes:episode>21</itunes:episode>
+                                                    <itunes:season>1</itunes:season>
+                                <content:encoded><![CDATA[<p>Are we really living in a Simulation? the Earth, the people will know and meet, the Universe we observe, are these only just an Artificial Simulation? a Computer Simulation? Well, we really don't know yet. Why does this thought even matter? Does knowing the truth would make any difference on how you will live your life? Find out on this Episode about the Simulation Theory, Mandela Effect, Deja Vu, Video Games, Simulation Movies, and MORE.</p>]]></content:encoded>
+                                    <enclosure url="https://jjlabajo.com/ayawmopaminaw/episodes/21.m4a" length="01:04:47" type="audio/x-m4a"/>
+                                <itunes:summary><![CDATA[Are we really living in a Simulation? the Earth, the people will know and meet, the Universe we observe, are these only just an Artificial Simulation? a Computer Simulation? Well, we really don't know yet. Why does this thought even matter? Does knowing the truth would make any difference on how you will live your life? Find out on this Episode about the Simulation Theory, Mandela Effect, Deja Vu, Video Games, Simulation Movies, and MORE.]]></itunes:summary>
+                                    <itunes:image href="https://jjlabajo.com/ayawmopaminaw/cover+arts/AMP+Episode+21.png"></itunes:image>
+                                                                            <itunes:duration>01:04:47</itunes:duration>
+                                                    <itunes:author><![CDATA[Ayaw Mo Paminaw]]></itunes:author>
+                <googleplay:description><![CDATA[Are we really living in a Simulation? the Earth, the people will know and meet, the Universe we observe, are these only just an Artificial Simulation? a Computer Simulation? Well, we really don't know yet. Why does this thought even matter? Does knowing the truth would make any difference on how you will live your life? Find out on this Episode about the Simulation Theory, Mandela Effect, Deja Vu, Video Games, Simulation Movies, and MORE.]]></googleplay:description>
+                                    <googleplay:image href="https://jjlabajo.com/ayawmopaminaw/cover+arts/AMP+Episode+21.png"></googleplay:image>
+                            </item>
+                    <item>
+                <title><![CDATA[Ep20 - Dilemma sa Gugma]]></title>
+                <pubDate>Fri, 09 Jul 2021 07:03:16 +0000</pubDate>
+                <dc:creator>Ayaw Mo Paminaw</dc:creator>
+                <guid isPermaLink="true">https://jjlabajo.com/ayawmopaminaw/episodes/20.m4a</guid>
+                <description><![CDATA[<p>Love is really hard to logic out and rationalize but we're up for the challenge to attempt in explaining and justifying these Love Dilemmas. Are you curious enough to find out our thoughts about these difficult situations among various relationship scenarios? Enjoy this Episode. Just remember these are all our opinions , not meant to anyone. Peace!</p>]]></description>
+                <itunes:subtitle><![CDATA[Love is really hard to logic out and rationalize but we're up for the challenge to attempt in explaining and justifying these Love Dilemmas. Are you curious enough to find out our thoughts about these difficult situations among various relationship scenarios? Enjoy this Episode. Just remember these are all our opinions , not meant to anyone. Peace!]]></itunes:subtitle>
+                                    <itunes:episodeType>full</itunes:episodeType>
+                                <itunes:title><![CDATA[Ep20 - Dilemma sa Gugma]]></itunes:title>
+                                    <itunes:episode>20</itunes:episode>
+                                                    <itunes:season>1</itunes:season>
+                                <content:encoded><![CDATA[<p>Love is really hard to logic out and rationalize but we're up for the challenge to attempt in explaining and justifying these Love Dilemmas. Are you curious enough to find out our thoughts about these difficult situations among various relationship scenarios? Enjoy this Episode. Just remember these are all our opinions , not meant to anyone. Peace!</p>]]></content:encoded>
+                                    <enclosure url="https://jjlabajo.com/ayawmopaminaw/episodes/20.m4a" length="01:03:45" type="audio/x-m4a"/>
+                                <itunes:summary><![CDATA[Love is really hard to logic out and rationalize but we're up for the challenge to attempt in explaining and justifying these Love Dilemmas. Are you curious enough to find out our thoughts about these difficult situations among various relationship scenarios? Enjoy this Episode. Just remember these are all our opinions , not meant to anyone. Peace!]]></itunes:summary>
+                                    <itunes:image href="https://jjlabajo.com/ayawmopaminaw/cover+arts/AMP+Episode+19.png"></itunes:image>
+                                                                            <itunes:duration>01:03:45</itunes:duration>
+                                                    <itunes:author><![CDATA[Ayaw Mo Paminaw]]></itunes:author>
+                <googleplay:description><![CDATA[Love is really hard to logic out and rationalize but we're up for the challenge to attempt in explaining and justifying these Love Dilemmas. Are you curious enough to find out our thoughts about these difficult situations among various relationship scenarios? Enjoy this Episode. Just remember these are all our opinions , not meant to anyone. Peace!]]></googleplay:description>
+                                    <googleplay:image href="https://jjlabajo.com/ayawmopaminaw/cover+arts/AMP+Episode+19.png"></googleplay:image>
+                            </item>
+                    <item>
+                <title><![CDATA[Ep19 - Love Languages]]></title>
+                <pubDate>Tue, 29 Jun 2021 08:02:16 +0000</pubDate>
+                <dc:creator>Ayaw Mo Paminaw</dc:creator>
+                <guid isPermaLink="true">https://jjlabajo.com/ayawmopaminaw/episodes/19.m4a</guid>
+                <description><![CDATA[<p>How do you express your meaningful love to someone? Through touch? Through sweet and flowery words? Through giving gifts, money , time, effort? Join us as we talk about Gary Chapman's book, The 5 Love Languages and the advantages in learning these languages. Does this knowledge can help couples enhance their relationship?  Do you really need to learn your partner's love language to develop a healthy and fulfilling relationship?</p>]]></description>
+                <itunes:subtitle><![CDATA[How do you express your meaningful love to someone? Through touch? Through sweet and flowery words? Through giving gifts, money , time, effort? Join us as we talk about Gary Chapman's book, The 5 Love Languages and the advantages in learning these languages. Does this knowledge can help couples enhance their relationship?  Do you really need to learn your partner's love language to develop a healthy and fulfilling relationship?]]></itunes:subtitle>
+                                    <itunes:episodeType>full</itunes:episodeType>
+                                <itunes:title><![CDATA[Ep19 - Love Languages]]></itunes:title>
+                                    <itunes:episode>19</itunes:episode>
+                                                    <itunes:season>1</itunes:season>
+                                <content:encoded><![CDATA[<p>How do you express your meaningful love to someone? Through touch? Through sweet and flowery words? Through giving gifts, money , time, effort? Join us as we talk about Gary Chapman's book, The 5 Love Languages and the advantages in learning these languages. Does this knowledge can help couples enhance their relationship?  Do you really need to learn your partner's love language to develop a healthy and fulfilling relationship?</p>]]></content:encoded>
+                                    <enclosure url="https://jjlabajo.com/ayawmopaminaw/episodes/19.m4a" length="01:13:30" type="audio/x-m4a"/>
+                                <itunes:summary><![CDATA[How do you express your meaningful love to someone? Through touch? Through sweet and flowery words? Through giving gifts, money , time, effort? Join us as we talk about Gary Chapman's book, The 5 Love Languages and the advantages in learning these languages. Does this knowledge can help couples enhance their relationship?  Do you really need to learn your partner's love language to develop a healthy and fulfilling relationship?]]></itunes:summary>
+                                    <itunes:image href="https://jjlabajo.com/ayawmopaminaw/cover+arts/AMP+Episode+19.png"></itunes:image>
+                                                                            <itunes:duration>01:13:30</itunes:duration>
+                                                    <itunes:author><![CDATA[Ayaw Mo Paminaw]]></itunes:author>
+                <googleplay:description><![CDATA[How do you express your meaningful love to someone? Through touch? Through sweet and flowery words? Through giving gifts, money , time, effort? Join us as we talk about Gary Chapman's book, The 5 Love Languages and the advantages in learning these languages. Does this knowledge can help couples enhance their relationship?  Do you really need to learn your partner's love language to develop a healthy and fulfilling relationship?]]></googleplay:description>
+                                    <googleplay:image href="https://jjlabajo.com/ayawmopaminaw/cover+arts/AMP+Episode+19.png"></googleplay:image>
+                            </item>
+                    <item>
+                <title><![CDATA[Ep18 - #PaWoke: Mulat sa Realidad]]></title>
+                <pubDate>Tue, 01 Jun 2021 03:30:16 +0000</pubDate>
+                <dc:creator>Ayaw Mo Paminaw</dc:creator>
+                <guid isPermaLink="true">https://jjlabajo.com/ayawmopaminaw/episodes/18 real.m4a</guid>
+                <description><![CDATA[<p>From the past tense word of "Wake"  meaning emerge from a state of sleep but in a sense that they're socially awake or alert on the aspect of the social issues around us. It became a meme phrase, labeling these vocal people with cringey and dissenting opinions, it also became a word for "smart-shaming", discriminating the person while neglecting his/her opinion and argument. Does being PaWoke makes you smart and intellectual that you will be vulnerable for smart-shamers? or Does being PaWoke makes you dumb instead, since you're just creating an issue about almost everything, creating more Drama. Mulat ka na ba talaga? Nakamata na ba jud kaha ka? </p>]]></description>
+                <itunes:subtitle><![CDATA[From the past tense word of "Wake"  meaning emerge from a state of sleep but in a sense that they're socially awake or alert on the aspect of the social issues around us. It became a meme phrase, labeling these vocal people with cringey and dissenting opinions, it also became a word for "smart-shaming", discriminating the person while neglecting his/her opinion and argument. Does being PaWoke makes you smart and intellectual that you will be vulnerable for smart-shamers? or Does being PaWoke makes you dumb instead, since you're just creating an issue about almost everything, creating more Drama. Mulat ka na ba talaga? Nakamata na ba jud kaha ka? ]]></itunes:subtitle>
+                                    <itunes:episodeType>full</itunes:episodeType>
+                                <itunes:title><![CDATA[Ep18 - #PaWoke: Mulat sa Realidad]]></itunes:title>
+                                    <itunes:episode>18</itunes:episode>
+                                                    <itunes:season>1</itunes:season>
+                                <content:encoded><![CDATA[<p>From the past tense word of "Wake"  meaning emerge from a state of sleep but in a sense that they're socially awake or alert on the aspect of the social issues around us. It became a meme phrase, labeling these vocal people with cringey and dissenting opinions, it also became a word for "smart-shaming", discriminating the person while neglecting his/her opinion and argument. Does being PaWoke makes you smart and intellectual that you will be vulnerable for smart-shamers? or Does being PaWoke makes you dumb instead, since you're just creating an issue about almost everything, creating more Drama. Mulat ka na ba talaga? Nakamata na ba jud kaha ka? </p>]]></content:encoded>
+                                    <enclosure url="https://jjlabajo.com/ayawmopaminaw/episodes/18 real.m4a" length="01:12:58" type="audio/x-m4a"/>
+                                <itunes:summary><![CDATA[From the past tense word of "Wake"  meaning emerge from a state of sleep but in a sense that they're socially awake or alert on the aspect of the social issues around us. It became a meme phrase, labeling these vocal people with cringey and dissenting opinions, it also became a word for "smart-shaming", discriminating the person while neglecting his/her opinion and argument. Does being PaWoke makes you smart and intellectual that you will be vulnerable for smart-shamers? or Does being PaWoke makes you dumb instead, since you're just creating an issue about almost everything, creating more Drama. Mulat ka na ba talaga? Nakamata na ba jud kaha ka? ]]></itunes:summary>
+                                    <itunes:image href="https://jjlabajo.com/ayawmopaminaw/cover+arts/AMP+Episode+18.png"></itunes:image>
+                                                                            <itunes:duration>01:12:58</itunes:duration>
+                                                    <itunes:author><![CDATA[Ayaw Mo Paminaw]]></itunes:author>
+                <googleplay:description><![CDATA[From the past tense word of "Wake"  meaning emerge from a state of sleep but in a sense that they're socially awake or alert on the aspect of the social issues around us. It became a meme phrase, labeling these vocal people with cringey and dissenting opinions, it also became a word for "smart-shaming", discriminating the person while neglecting his/her opinion and argument. Does being PaWoke makes you smart and intellectual that you will be vulnerable for smart-shamers? or Does being PaWoke makes you dumb instead, since you're just creating an issue about almost everything, creating more Drama. Mulat ka na ba talaga? Nakamata na ba jud kaha ka? ]]></googleplay:description>
+                                    <googleplay:image href="https://jjlabajo.com/ayawmopaminaw/cover+arts/AMP+Episode+18.png"></googleplay:image>
+                            </item>
+                    <item>
+                <title><![CDATA[Ep17 - Does Religion causes conflict? ]]></title>
+                <pubDate>Fri, 21 May 2021 00:06:16 +0000</pubDate>
+                <dc:creator>Ayaw Mo Paminaw</dc:creator>
+                <guid isPermaLink="true">https://jjlabajo.com/ayawmopaminaw/episodes/17.m4a</guid>
+                <description><![CDATA[<p>Religion teaches humanity about love, understanding and compassion but there are too many different religions with different beliefs that divided humanity causing wars ,conflicts and misunderstanding. As Israel-Palestine conflict rises these days, let's discuss what can we reflect on this as a human. We will also share our thoughts about Filipino Territorial issues, Just War, History of Religion, etc. </p>]]></description>
+                <itunes:subtitle><![CDATA[Religion teaches humanity about love, understanding and compassion but there are too many different religions with different beliefs that divided humanity causing wars ,conflicts and misunderstanding. As Israel-Palestine conflict rises these days, let's discuss what can we reflect on this as a human. We will also share our thoughts about Filipino Territorial issues, Just War, History of Religion, etc. ]]></itunes:subtitle>
+                                    <itunes:episodeType>full</itunes:episodeType>
+                                <itunes:title><![CDATA[Ep17 - Does Religion causes conflict? ]]></itunes:title>
+                                    <itunes:episode>17</itunes:episode>
+                                                    <itunes:season>1</itunes:season>
+                                <content:encoded><![CDATA[<p>Religion teaches humanity about love, understanding and compassion but there are too many different religions with different beliefs that divided humanity causing wars ,conflicts and misunderstanding. As Israel-Palestine conflict rises these days, let's discuss what can we reflect on this as a human. We will also share our thoughts about Filipino Territorial issues, Just War, History of Religion, etc. </p>]]></content:encoded>
+                                    <enclosure url="https://jjlabajo.com/ayawmopaminaw/episodes/17.m4a" length="01:06:37" type="audio/x-m4a"/>
+                                <itunes:summary><![CDATA[Religion teaches humanity about love, understanding and compassion but there are too many different religions with different beliefs that divided humanity causing wars ,conflicts and misunderstanding. As Israel-Palestine conflict rises these days, let's discuss what can we reflect on this as a human. We will also share our thoughts about Filipino Territorial issues, Just War, History of Religion, etc. ]]></itunes:summary>
+                                    <itunes:image href="https://jjlabajo.com/ayawmopaminaw/cover+arts/AMP+Episode+17.png"></itunes:image>
+                                                                            <itunes:duration>01:06:37</itunes:duration>
+                                                    <itunes:author><![CDATA[Ayaw Mo Paminaw]]></itunes:author>
+                <googleplay:description><![CDATA[Religion teaches humanity about love, understanding and compassion but there are too many different religions with different beliefs that divided humanity causing wars ,conflicts and misunderstanding. As Israel-Palestine conflict rises these days, let's discuss what can we reflect on this as a human. We will also share our thoughts about Filipino Territorial issues, Just War, History of Religion, etc. ]]></googleplay:description>
+                                    <googleplay:image href="https://jjlabajo.com/ayawmopaminaw/cover+arts/AMP+Episode+17.png"></googleplay:image>
+                            </item>
+                    <item>
+                <title><![CDATA[Ep16 - Why is Law of Attraction dumb? ]]></title>
+                <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
+                <dc:creator>Ayaw Mo Paminaw</dc:creator>
+                <guid isPermaLink="true">https://jjlabajo.com/ayawmopaminaw/episodes/16.m4a</guid>
+                <description><![CDATA[<p>Law of Attraction is the belief that positive or negative thoughts bring positive or negative experiences into a person's life. What if we only focus on the negative side like "The results of negative thoughts are always negative consequences." Do you agree that this thinking is ridiculous ? or Do you think this is the best mindset to achieve a successful life. Join us as we question the validity of LOA and we also discuss about Networking, Success, the Purpose Life, Law of Motion, etc. Enjoy this Episode! </p>]]></description>
+                <itunes:subtitle><![CDATA[Law of Attraction is the belief that positive or negative thoughts bring positive or negative experiences into a person's life. What if we only focus on the negative side like "The results of negative thoughts are always negative consequences." Do you agree that this thinking is ridiculous ? or Do you think this is the best mindset to achieve a successful life. Join us as we question the validity of LOA and we also discuss about Networking, Success, the Purpose Life, Law of Motion, etc. Enjoy this Episode! ]]></itunes:subtitle>
+                                    <itunes:episodeType>full</itunes:episodeType>
+                                <itunes:title><![CDATA[Ep16 - Why is Law of Attraction dumb? ]]></itunes:title>
+                                    <itunes:episode>16</itunes:episode>
+                                                    <itunes:season>1</itunes:season>
+                                <content:encoded><![CDATA[<p>Law of Attraction is the belief that positive or negative thoughts bring positive or negative experiences into a person's life. What if we only focus on the negative side like "The results of negative thoughts are always negative consequences." Do you agree that this thinking is ridiculous ? or Do you think this is the best mindset to achieve a successful life. Join us as we question the validity of LOA and we also discuss about Networking, Success, the Purpose Life, Law of Motion, etc. Enjoy this Episode! </p>]]></content:encoded>
+                                    <enclosure url="https://jjlabajo.com/ayawmopaminaw/episodes/16.m4a" length="01:06:15" type="audio/x-m4a"/>
+                                <itunes:summary><![CDATA[Law of Attraction is the belief that positive or negative thoughts bring positive or negative experiences into a person's life. What if we only focus on the negative side like "The results of negative thoughts are always negative consequences." Do you agree that this thinking is ridiculous ? or Do you think this is the best mindset to achieve a successful life. Join us as we question the validity of LOA and we also discuss about Networking, Success, the Purpose Life, Law of Motion, etc. Enjoy this Episode! ]]></itunes:summary>
+                                    <itunes:image href="https://jjlabajo.com/ayawmopaminaw/cover+arts/AMP+Cover+Art.png"></itunes:image>
+                                                                            <itunes:duration>01:06:15</itunes:duration>
+                                                    <itunes:author><![CDATA[Ayaw Mo Paminaw]]></itunes:author>
+                <googleplay:description><![CDATA[Law of Attraction is the belief that positive or negative thoughts bring positive or negative experiences into a person's life. What if we only focus on the negative side like "The results of negative thoughts are always negative consequences." Do you agree that this thinking is ridiculous ? or Do you think this is the best mindset to achieve a successful life. Join us as we question the validity of LOA and we also discuss about Networking, Success, the Purpose Life, Law of Motion, etc. Enjoy this Episode! ]]></googleplay:description>
+                                    <googleplay:image href="https://jjlabajo.com/ayawmopaminaw/cover+arts/AMP+Cover+Art.png"></googleplay:image>
+                            </item>
+                    <item>
+                <title><![CDATA[Ep15 - How dark is the Dark Web? ]]></title>
+                <pubDate>Thu, 30 Apr 2021 00:44:00 +0000</pubDate>
+                <dc:creator>Ayaw Mo Paminaw</dc:creator>
+                <guid isPermaLink="true">https://jjlabajo.com/ayawmopaminaw/episodes/15.mp3</guid>
+                <description><![CDATA[<p>You can't stop the waves but you can learn to surf,  that's deep. But not as deep as the Deep Web, the Dark web, the hidden web. The part of the web invisible to search engines. Find out on this episode how really Dark it is.</p>]]></description>
+                <itunes:subtitle><![CDATA[You can't stop the waves but you can learn to surf,  that's deep. But not as deep as the Deep Web, the Dark web, the hidden web. The part of the web invisible to search engines. Find out on this episode how really Dark it is.]]></itunes:subtitle>
+                                    <itunes:episodeType>full</itunes:episodeType>
+                                <itunes:title><![CDATA[Ep15 - How dark is the Dark Web? ]]></itunes:title>
+                                    <itunes:episode>15</itunes:episode>
+                                                    <itunes:season>1</itunes:season>
+                                <content:encoded><![CDATA[<p>You can't stop the waves but you can learn to surf,  that's deep. But not as deep as the Deep Web, the Dark web, the hidden web. The part of the web invisible to search engines. Find out on this episode how really Dark it is.</p>]]></content:encoded>
+                                    <enclosure url="https://jjlabajo.com/ayawmopaminaw/episodes/15.mp3" length="01:12:31" type="audio/x-m4a"/>
+                                <itunes:summary><![CDATA[You can't stop the waves but you can learn to surf,  that's deep. But not as deep as the Deep Web, the Dark web, the hidden web. The part of the web invisible to search engines. Find out on this episode how really Dark it is.]]></itunes:summary>
+                                    <itunes:image href="https://jjlabajo.com/ayawmopaminaw/cover+arts/AMP+Episode+15.png"></itunes:image>
+                                                                            <itunes:duration>01:12:31</itunes:duration>
+                                                    <itunes:author><![CDATA[Ayaw Mo Paminaw]]></itunes:author>
+                <googleplay:description><![CDATA[You can't stop the waves but you can learn to surf,  that's deep. But not as deep as the Deep Web, the Dark web, the hidden web. The part of the web invisible to search engines. Find out on this episode how really Dark it is.]]></googleplay:description>
+                                    <googleplay:image href="https://jjlabajo.com/ayawmopaminaw/cover+arts/AMP+Episode+15.png"></googleplay:image>
+                            </item>
+                    <item>
+                <title><![CDATA[Ep14 - KPop Obsession Toxic(?) ]]></title>
+                <pubDate>Thu, 26 Apr 2021 02:41:00 +0000</pubDate>
+                <dc:creator>Ayaw Mo Paminaw</dc:creator>
+                <guid isPermaLink="true">https://jjlabajo.com/ayawmopaminaw/episodes/14.mp3</guid>
+                <description><![CDATA[<p>So, we want to talk about kpop obsession for y'all. Is this not normal? Unhealthy? When is Enough? Enough? or Much? Too much? Let's discuss this out as well as Racism, Asian Hate, Fans Pet Peeves, Mental health, etc. Enjoy this episode!</p>]]></description>
+                <itunes:subtitle><![CDATA[So, we want to talk about kpop obsession for y'all. Is this not normal? Unhealthy? When is Enough? Enough? or Much? Too much? Let's discuss this out as well as Racism, Asian Hate, Fans Pet Peeves, Mental health, etc. Enjoy this episode!]]></itunes:subtitle>
+                                    <itunes:episodeType>full</itunes:episodeType>
+                                <itunes:title><![CDATA[Ep14 - KPop Obsession Toxic(?) ]]></itunes:title>
+                                    <itunes:episode>14</itunes:episode>
+                                                    <itunes:season>1</itunes:season>
+                                <content:encoded><![CDATA[<p>So, we want to talk about kpop obsession for y'all. Is this not normal? Unhealthy? When is Enough? Enough? or Much? Too much? Let's discuss this out as well as Racism, Asian Hate, Fans Pet Peeves, Mental health, etc. Enjoy this episode!</p>]]></content:encoded>
+                                    <enclosure url="https://jjlabajo.com/ayawmopaminaw/episodes/14.mp3" length="01:12:29" type="audio/x-m4a"/>
+                                <itunes:summary><![CDATA[So, we want to talk about kpop obsession for y'all. Is this not normal? Unhealthy? When is Enough? Enough? or Much? Too much? Let's discuss this out as well as Racism, Asian Hate, Fans Pet Peeves, Mental health, etc. Enjoy this episode!]]></itunes:summary>
+                                    <itunes:image href="https://jjlabajo.com/ayawmopaminaw/cover+arts/AMP+Episode+14.png"></itunes:image>
+                                                                            <itunes:duration>01:12:29</itunes:duration>
+                                                    <itunes:author><![CDATA[Ayaw Mo Paminaw]]></itunes:author>
+                <googleplay:description><![CDATA[So, we want to talk about kpop obsession for y'all. Is this not normal? Unhealthy? When is Enough? Enough? or Much? Too much? Let's discuss this out as well as Racism, Asian Hate, Fans Pet Peeves, Mental health, etc. Enjoy this episode!]]></googleplay:description>
+                                    <googleplay:image href="https://jjlabajo.com/ayawmopaminaw/cover+arts/AMP+Episode+14.png"></googleplay:image>
+                            </item>
+                    <item>
+                <title><![CDATA[Ep13 - Is it Moral to Kill Animals for Food? ]]></title>
+                <pubDate>Thu, 16 Apr 2021 11:35:00 +0000</pubDate>
+                <dc:creator>Ayaw Mo Paminaw</dc:creator>
+                <guid isPermaLink="true">https://jjlabajo.com/ayawmopaminaw/episodes/13.m4a</guid>
+                <description><![CDATA[<p>Look at those pity creatures tortured, killed and murdered for our own satisfaction and benefit. Is it morally right and justifiable? or not? Enjoy the show as we talk about Animal Ethics, Morality , Moral Standards, Capitalism, Consequentialism, etc. </p>]]></description>
+                <itunes:subtitle><![CDATA[Look at those pity creatures tortured, killed and murdered for our own satisfaction and benefit. Is it morally right and justifiable? or not? Enjoy the show as we talk about Animal Ethics, Morality , Moral Standards, Capitalism, Consequentialism, etc. ]]></itunes:subtitle>
+                                    <itunes:episodeType>full</itunes:episodeType>
+                                <itunes:title><![CDATA[Ep13 - Is it Moral to Kill Animals for Food? ]]></itunes:title>
+                                    <itunes:episode>13</itunes:episode>
+                                                    <itunes:season>1</itunes:season>
+                                <content:encoded><![CDATA[<p>Look at those pity creatures tortured, killed and murdered for our own satisfaction and benefit. Is it morally right and justifiable? or not? Enjoy the show as we talk about Animal Ethics, Morality , Moral Standards, Capitalism, Consequentialism, etc. </p>]]></content:encoded>
+                                    <enclosure url="https://jjlabajo.com/ayawmopaminaw/episodes/13.m4a" length="01:05:02" type="audio/x-m4a"/>
+                                <itunes:summary><![CDATA[Look at those pity creatures tortured, killed and murdered for our own satisfaction and benefit. Is it morally right and justifiable? or not? Enjoy the show as we talk about Animal Ethics, Morality , Moral Standards, Capitalism, Consequentialism, etc. ]]></itunes:summary>
+                                    <itunes:image href="https://jjlabajo.com/ayawmopaminaw/cover+arts/AMP+Episode+13.png"></itunes:image>
+                                                                            <itunes:duration>01:05:02</itunes:duration>
+                                                    <itunes:author><![CDATA[Ayaw Mo Paminaw]]></itunes:author>
+                <googleplay:description><![CDATA[Look at those pity creatures tortured, killed and murdered for our own satisfaction and benefit. Is it morally right and justifiable? or not? Enjoy the show as we talk about Animal Ethics, Morality , Moral Standards, Capitalism, Consequentialism, etc. ]]></googleplay:description>
+                                    <googleplay:image href="https://jjlabajo.com/ayawmopaminaw/cover+arts/AMP+Episode+13.png"></googleplay:image>
+                            </item>
+                    <item>
+                <title><![CDATA[Ep12 - Tuktuk sa Misamis ]]></title>
+                <pubDate>Thu, 15 Apr 2021 04:02:00 +0000</pubDate>
+                <dc:creator>Ayaw Mo Paminaw</dc:creator>
+                <guid isPermaLink="true">https://jjlabajo.com/ayawmopaminaw/episodes/12.m4a</guid>
+                <description><![CDATA[<p>Demonic cults arise in Mindanao giving terrors and fear to the people. Do these cults have special abilities due to the practice of Black Magic? Or they only have psychological disorders thinking that they gain something grand in killing and kidnapping people? What's the philosophy of their actions? Are you curious enough to find out? Let's talk about different stories of some of the scariest cults, not only in the Philippines but in the different areas of the world.</p>]]></description>
+                <itunes:subtitle><![CDATA[Demonic cults arise in Mindanao giving terrors and fear to the people. Do these cults have special abilities due to the practice of Black Magic? Or they only have psychological disorders thinking that they gain something grand in killing and kidnapping people? What's the philosophy of their actions? Are you curious enough to find out? Let's talk about different stories of some of the scariest cults, not only in the Philippines but in the different areas of the world.]]></itunes:subtitle>
+                                    <itunes:episodeType>full</itunes:episodeType>
+                                <itunes:title><![CDATA[Ep12 - Tuktuk sa Misamis ]]></itunes:title>
+                                    <itunes:episode>12</itunes:episode>
+                                                    <itunes:season>1</itunes:season>
+                                <content:encoded><![CDATA[<p>Demonic cults arise in Mindanao giving terrors and fear to the people. Do these cults have special abilities due to the practice of Black Magic? Or they only have psychological disorders thinking that they gain something grand in killing and kidnapping people? What's the philosophy of their actions? Are you curious enough to find out? Let's talk about different stories of some of the scariest cults, not only in the Philippines but in the different areas of the world.</p>]]></content:encoded>
+                                    <enclosure url="https://jjlabajo.com/ayawmopaminaw/episodes/12.m4a" length="00:56:39" type="audio/x-m4a"/>
+                                <itunes:summary><![CDATA[Demonic cults arise in Mindanao giving terrors and fear to the people. Do these cults have special abilities due to the practice of Black Magic? Or they only have psychological disorders thinking that they gain something grand in killing and kidnapping people? What's the philosophy of their actions? Are you curious enough to find out? Let's talk about different stories of some of the scariest cults, not only in the Philippines but in the different areas of the world.]]></itunes:summary>
+                                    <itunes:image href="https://jjlabajo.com/ayawmopaminaw/cover+arts/AMP+Episode+12.png"></itunes:image>
+                                                                            <itunes:duration>00:56:39</itunes:duration>
+                                                    <itunes:author><![CDATA[Ayaw Mo Paminaw]]></itunes:author>
+                <googleplay:description><![CDATA[Demonic cults arise in Mindanao giving terrors and fear to the people. Do these cults have special abilities due to the practice of Black Magic? Or they only have psychological disorders thinking that they gain something grand in killing and kidnapping people? What's the philosophy of their actions? Are you curious enough to find out? Let's talk about different stories of some of the scariest cults, not only in the Philippines but in the different areas of the world.]]></googleplay:description>
+                                    <googleplay:image href="https://jjlabajo.com/ayawmopaminaw/cover+arts/AMP+Episode+12.png"></googleplay:image>
+                            </item>
+                    <item>
+                <title><![CDATA[Ep11 - 2012? 2021* ]]></title>
+                <pubDate>Thu, 8 Apr 2021 02:14:00 +0000</pubDate>
+                <dc:creator>Ayaw Mo Paminaw</dc:creator>
+                <guid isPermaLink="true">https://jjlabajo.com/ayawmopaminaw/episodes/11.m4a</guid>
+                <description><![CDATA[<p>You thought it's 2012? The End of the World? Heck, No! It's 2021 all along. Yes, the Mayans are wrong, they  made a TYPO! We're just kidding but still get ready for in this episode, we will share our thoughts about the Apocalypse, The Doomsday, Armageddon , The End of Time, The Rapture. Is the world will reach its climax? or The Humanity can survive and can prevent this to happen? Enjoy this episode!</p>]]></description>
+                <itunes:subtitle><![CDATA[You thought it's 2012? The End of the World? Heck, No! It's 2021 all along. Yes, the Mayans are wrong, they  made a TYPO! We're just kidding but still get ready for in this episode, we will share our thoughts about the Apocalypse, The Doomsday, Armageddon , The End of Time, The Rapture. Is the world will reach its climax? or The Humanity can survive and can prevent this to happen? Enjoy this episode!]]></itunes:subtitle>
+                                    <itunes:episodeType>full</itunes:episodeType>
+                                <itunes:title><![CDATA[Ep11 - 2012? 2021* ]]></itunes:title>
+                                    <itunes:episode>11</itunes:episode>
+                                                    <itunes:season>1</itunes:season>
+                                <content:encoded><![CDATA[<p>You thought it's 2012? The End of the World? Heck, No! It's 2021 all along. Yes, the Mayans are wrong, they  made a TYPO! We're just kidding but still get ready for in this episode, we will share our thoughts about the Apocalypse, The Doomsday, Armageddon , The End of Time, The Rapture. Is the world will reach its climax? or The Humanity can survive and can prevent this to happen? Enjoy this episode!</p>]]></content:encoded>
+                                    <enclosure url="https://jjlabajo.com/ayawmopaminaw/episodes/11.m4a" length="01:08:40" type="audio/x-m4a"/>
+                                <itunes:summary><![CDATA[You thought it's 2012? The End of the World? Heck, No! It's 2021 all along. Yes, the Mayans are wrong, they  made a TYPO! We're just kidding but still get ready for in this episode, we will share our thoughts about the Apocalypse, The Doomsday, Armageddon , The End of Time, The Rapture. Is the world will reach its climax? or The Humanity can survive and can prevent this to happen? Enjoy this episode!]]></itunes:summary>
+                                    <itunes:image href="https://jjlabajo.com/ayawmopaminaw/cover+arts/AMP+Episode+11.png"></itunes:image>
+                                                                            <itunes:duration>01:08:40</itunes:duration>
+                                                    <itunes:author><![CDATA[Ayaw Mo Paminaw]]></itunes:author>
+                <googleplay:description><![CDATA[You thought it's 2012? The End of the World? Heck, No! It's 2021 all along. Yes, the Mayans are wrong, they  made a TYPO! We're just kidding but still get ready for in this episode, we will share our thoughts about the Apocalypse, The Doomsday, Armageddon , The End of Time, The Rapture. Is the world will reach its climax? or The Humanity can survive and can prevent this to happen? Enjoy this episode!]]></googleplay:description>
+                                    <googleplay:image href="https://jjlabajo.com/ayawmopaminaw/cover+arts/AMP+Episode+11.png"></googleplay:image>
+                            </item>
+                    <item>
+                <title><![CDATA[Ep10 - Is there Life After Death? ]]></title>
+                <pubDate>Wed, 31 Mar 2021 01:32:00 +0000</pubDate>
+                <dc:creator>Ayaw Mo Paminaw</dc:creator>
+                <guid isPermaLink="true">https://jjlabajo.com/ayawmopaminaw/episodes/10.mp3</guid>
+                <description><![CDATA[<p>Does Heaven really exist? Hell? Reincarnation?  or Void? Or Just complete Nothingness? Darkness? What comes after our death? In Bisaya,  we will explain our different theories, ideas and philosophies as we talk about the "Afterlife." Let's question and know more about this. Hope you'll enjoy this episode!</p>]]></description>
+                <itunes:subtitle><![CDATA[Does Heaven really exist? Hell? Reincarnation?  or Void? Or Just complete Nothingness? Darkness? What comes after our death? In Bisaya,  we will explain our different theories, ideas and philosophies as we talk about the "Afterlife." Let's question and know more about this. Hope you'll enjoy this episode!]]></itunes:subtitle>
+                                    <itunes:episodeType>full</itunes:episodeType>
+                                <itunes:title><![CDATA[Ep10 - Is there Life After Death? ]]></itunes:title>
+                                    <itunes:episode>10</itunes:episode>
+                                                    <itunes:season>1</itunes:season>
+                                <content:encoded><![CDATA[<p>Does Heaven really exist? Hell? Reincarnation?  or Void? Or Just complete Nothingness? Darkness? What comes after our death? In Bisaya,  we will explain our different theories, ideas and philosophies as we talk about the "Afterlife." Let's question and know more about this. Hope you'll enjoy this episode!</p>]]></content:encoded>
+                                    <enclosure url="https://jjlabajo.com/ayawmopaminaw/episodes/10.mp3" length="01:12:57" type="audio/x-m4a"/>
+                                <itunes:summary><![CDATA[Does Heaven really exist? Hell? Reincarnation?  or Void? Or Just complete Nothingness? Darkness? What comes after our death? In Bisaya,  we will explain our different theories, ideas and philosophies as we talk about the "Afterlife." Let's question and know more about this. Hope you'll enjoy this episode!]]></itunes:summary>
+                                    <itunes:image href="https://jjlabajo.com/ayawmopaminaw/cover+arts/AMP+Episode+10.png"></itunes:image>
+                                                                            <itunes:duration>01:12:57</itunes:duration>
+                                                    <itunes:author><![CDATA[Ayaw Mo Paminaw]]></itunes:author>
+                <googleplay:description><![CDATA[Does Heaven really exist? Hell? Reincarnation?  or Void? Or Just complete Nothingness? Darkness? What comes after our death? In Bisaya,  we will explain our different theories, ideas and philosophies as we talk about the "Afterlife." Let's question and know more about this. Hope you'll enjoy this episode!]]></googleplay:description>
+                                    <googleplay:image href="https://jjlabajo.com/ayawmopaminaw/cover+arts/AMP+Episode+10.png"></googleplay:image>
+                            </item>
+                    <item>
+                <title><![CDATA[Ep9 - Aswang Chronicles]]></title>
+                <pubDate>Mon, 29 Mar 2021 03:20:00 +0000</pubDate>
+                <dc:creator>Ayaw Mo Paminaw</dc:creator>
+                <guid isPermaLink="true">https://jjlabajo.com/ayawmopaminaw/episodes/9.mp3</guid>
+                <description><![CDATA[<p>Aswangs, The most feared,  dangerous, menacing and threatening mythical creatures in the Philippines. Are Aswangs really just a myth? Or we just think of it as a fantasy to make ourselves safe and at ease. Sit back,  relax and ready your ears as we explore stories and theories about these evil spirits who lives amongst Filipinos. </p>]]></description>
+                <itunes:subtitle><![CDATA[Aswangs, The most feared,  dangerous, menacing and threatening mythical creatures in the Philippines. Are Aswangs really just a myth? Or we just think of it as a fantasy to make ourselves safe and at ease. Sit back,  relax and ready your ears as we explore stories and theories about these evil spirits who lives amongst Filipinos. ]]></itunes:subtitle>
+                                    <itunes:episodeType>full</itunes:episodeType>
+                                <itunes:title><![CDATA[Ep9 - Aswang Chronicles]]></itunes:title>
+                                    <itunes:episode>9</itunes:episode>
+                                                    <itunes:season>1</itunes:season>
+                                <content:encoded><![CDATA[<p>Aswangs, The most feared,  dangerous, menacing and threatening mythical creatures in the Philippines. Are Aswangs really just a myth? Or we just think of it as a fantasy to make ourselves safe and at ease. Sit back,  relax and ready your ears as we explore stories and theories about these evil spirits who lives amongst Filipinos. </p>]]></content:encoded>
+                                    <enclosure url="https://jjlabajo.com/ayawmopaminaw/episodes/9.mp3" length="01:05:06" type="audio/x-mp3"/>
+                                <itunes:summary><![CDATA[Aswangs, The most feared,  dangerous, menacing and threatening mythical creatures in the Philippines. Are Aswangs really just a myth? Or we just think of it as a fantasy to make ourselves safe and at ease. Sit back,  relax and ready your ears as we explore stories and theories about these evil spirits who lives amongst Filipinos. ]]></itunes:summary>
+                                    <itunes:image href="https://jjlabajo.com/ayawmopaminaw/cover+arts/AMP+Episode+9.png"></itunes:image>
+                                                                            <itunes:duration>01:05:06</itunes:duration>
+                                                    <itunes:author><![CDATA[Ayaw Mo Paminaw]]></itunes:author>
+                <googleplay:description><![CDATA[Aswangs, The most feared,  dangerous, menacing and threatening mythical creatures in the Philippines. Are Aswangs really just a myth? Or we just think of it as a fantasy to make ourselves safe and at ease. Sit back,  relax and ready your ears as we explore stories and theories about these evil spirits who lives amongst Filipinos. ]]></googleplay:description>
+                                    <googleplay:image href="https://jjlabajo.com/ayawmopaminaw/cover+arts/AMP+Episode+9.png"></googleplay:image>
+                            </item>
+                    <item>
+                <title><![CDATA[Ep8 - Time Traveler caught on Cam]]></title>
+                <pubDate>Wed, 20 Mar 2021 00:20:00 +0000</pubDate>
+                <dc:creator>Ayaw Mo Paminaw</dc:creator>
+                <guid isPermaLink="true">https://jjlabajo.com/ayawmopaminaw/Episode+8.m4a</guid>
+                <description><![CDATA[<p>Is Time Travel Possible? Let's find out the possibilities it might exist. In this episode we talk about Time Travel Theories, Time Travel Movies, Time Paradoxes, Future Uncertainties and many more. If Time Travel is possible which timeline will you go, The Past? or The Future? </p>]]></description>
+                <itunes:subtitle><![CDATA[Is Time Travel Possible? Let's find out the possibilities it might exist. In this episode we talk about Time Travel Theories, Time Travel Movies, Time Paradoxes, Future Uncertainties and many more. If Time Travel is possible which timeline will you go, The Past? or The Future? ]]></itunes:subtitle>
+                                    <itunes:episodeType>full</itunes:episodeType>
+                                <itunes:title><![CDATA[Ep8 - Time Traveler caught on Cam]]></itunes:title>
+                                    <itunes:episode>8</itunes:episode>
+                                                    <itunes:season>1</itunes:season>
+                                <content:encoded><![CDATA[<p>Is Time Travel Possible? Let's find out the possibilities it might exist. In this episode we talk about Time Travel Theories, Time Travel Movies, Time Paradoxes, Future Uncertainties and many more. If Time Travel is possible which timeline will you go, The Past? or The Future? </p>]]></content:encoded>
+                                    <enclosure url="https://jjlabajo.com/ayawmopaminaw/episodes/8.mp3" length="01:23:01" type="audio/x-mp3"/>
+                                <itunes:summary><![CDATA[Is Time Travel Possible? Let's find out the possibilities it might exist. In this episode we talk about Time Travel Theories, Time Travel Movies, Time Paradoxes, Future Uncertainties and many more. If Time Travel is possible which timeline will you go, The Past? or The Future? ]]></itunes:summary>
+                                    <itunes:image href="https://jjlabajo.com/ayawmopaminaw/cover+arts/AMP+Episode+8.png"></itunes:image>
+                                                                            <itunes:duration>01:23:01</itunes:duration>
+                                                    <itunes:author><![CDATA[Ayaw Mo Paminaw]]></itunes:author>
+                <googleplay:description><![CDATA[Is Time Travel Possible? Let's find out the possibilities it might exist. In this episode we talk about Time Travel Theories, Time Travel Movies, Time Paradoxes, Future Uncertainties and many more. If Time Travel is possible which timeline will you go, The Past? or The Future? ]]></googleplay:description>
+                                    <googleplay:image href="https://jjlabajo.com/ayawmopaminaw/cover+arts/AMP+Episode+8.png"></googleplay:image>
+                            </item>
+                    <item>
+                <title><![CDATA[Ep7 - Trip to Biringan]]></title>
+                <pubDate>Wed, 17 Mar 2021 13:45:00 +0000</pubDate>
+                <dc:creator>Ayaw Mo Paminaw</dc:creator>
+                <guid isPermaLink="true">https://jjlabajo.com/ayawmopaminaw/Episode+7.m4a</guid>
+                <description><![CDATA[<p>Biringan is a mythical city that is said to invisibly lie between Gandara, Tarangnan, and Pagsanghan in Samar province of the Philippines. Let's talk about another Theory about the Real Shape of the Earth, "The Inner Earth, Agartha." We might discover that Biringan and Agartha might be the same place. Hope you will enjoy this episode about the Land Beyond the South pole and the Phantom City of Lost People. </p>]]></description>
+                <itunes:subtitle><![CDATA[Biringan is a mythical city that is said to invisibly lie between Gandara, Tarangnan, and Pagsanghan in Samar province of the Philippines. Let's talk about another Theory about the Real Shape of the Earth, "The Inner Earth, Agartha." We might discover that Biringan and Agartha might be the same place. Hope you will enjoy this episode about the Land Beyond the South pole and the Phantom City of Lost People. ]]></itunes:subtitle>
+                                    <itunes:episodeType>full</itunes:episodeType>
+                                <itunes:title><![CDATA[Ep7 - Trip to Biringan]]></itunes:title>
+                                    <itunes:episode>7</itunes:episode>
+                                                    <itunes:season>1</itunes:season>
+                                <content:encoded><![CDATA[<p>Biringan is a mythical city that is said to invisibly lie between Gandara, Tarangnan, and Pagsanghan in Samar province of the Philippines. Let's talk about another Theory about the Real Shape of the Earth, "The Inner Earth, Agartha." We might discover that Biringan and Agartha might be the same place. Hope you will enjoy this episode about the Land Beyond the South pole and the Phantom City of Lost People. </p>]]></content:encoded>
+                                    <enclosure url="https://jjlabajo.com/ayawmopaminaw/episodes/7.mp3" length="01:12:26" type="audio/x-mp3"/>
+                                <itunes:summary><![CDATA[Biringan is a mythical city that is said to invisibly lie between Gandara, Tarangnan, and Pagsanghan in Samar province of the Philippines. Let's talk about another Theory about the Real Shape of the Earth, "The Inner Earth, Agartha." We might discover that Biringan and Agartha might be the same place. Hope you will enjoy this episode about the Land Beyond the South pole and the Phantom City of Lost People. ]]></itunes:summary>
+                                    <itunes:image href="https://jjlabajo.com/ayawmopaminaw/cover+arts/AMP+Episode+7.png"></itunes:image>
+                                                                            <itunes:duration>01:12:26</itunes:duration>
+                                                    <itunes:author><![CDATA[Ayaw Mo Paminaw]]></itunes:author>
+                <googleplay:description><![CDATA[Biringan is a mythical city that is said to invisibly lie between Gandara, Tarangnan, and Pagsanghan in Samar province of the Philippines. Let's talk about another Theory about the Real Shape of the Earth, "The Inner Earth, Agartha." We might discover that Biringan and Agartha might be the same place. Hope you will enjoy this episode about the Land Beyond the South pole and the Phantom City of Lost People. ]]></googleplay:description>
+                                    <googleplay:image href="https://jjlabajo.com/ayawmopaminaw/cover+arts/AMP+Episode+7.png"></googleplay:image>
+                            </item>
+                    <item>
+                <title><![CDATA[Ep6 - Earth is Flat?]]></title>
+                <pubDate>Sat, 13 Mar 2021 03:45:00 +0000</pubDate>
+                <dc:creator>Ayaw Mo Paminaw</dc:creator>
+                <guid isPermaLink="true">https://jjlabajo.com/ayawmopaminaw/Episode+6+Flat+Earth.m4a</guid>
+                <description><![CDATA[<p>Yes, Earth is not Round? not Sphere? not Donut? It's 100% Flat! Find out on this episode! We will talk about the Flat Earth Theory, Moon Landing Conspiracies, NASA, and many more. Enjoy! </p>]]></description>
+                <itunes:subtitle><![CDATA[Yes, Earth is not Round? not Sphere? not Donut? It's 100% Flat! Find out on this episode! We will talk about the Flat Earth Theory, Moon Landing Conspiracies, NASA, and many more. Enjoy! ]]></itunes:subtitle>
+                                    <itunes:episodeType>full</itunes:episodeType>
+                                <itunes:title><![CDATA[Ep6 - Earth is Flat?]]></itunes:title>
+                                    <itunes:episode>6</itunes:episode>
+                                                    <itunes:season>1</itunes:season>
+                                <content:encoded><![CDATA[<p>Yes, Earth is not Round? not Sphere? not Donut? It's 100% Flat! Find out on this episode! We will talk about the Flat Earth Theory, Moon Landing Conspiracies, NASA, and many more. Enjoy! </p>]]></content:encoded>
+                                    <enclosure url="https://jjlabajo.com/ayawmopaminaw/episodes/6.mp3" length="01:08:49" type="audio/x-mp3"/>
+                                <itunes:summary><![CDATA[Yes, Earth is not Round? not Sphere? not Donut? It's 100% Flat! Find out on this episode! We will talk about the Flat Earth Theory, Moon Landing Conspiracies, NASA, and many more. Enjoy! ]]></itunes:summary>
+                                    <itunes:image href="https://jjlabajo.com/ayawmopaminaw/cover+arts/AMP+Episode+6.png"></itunes:image>
+                                                                            <itunes:duration>01:08:49</itunes:duration>
+                                                    <itunes:author><![CDATA[Ayaw Mo Paminaw]]></itunes:author>
+                <googleplay:description><![CDATA[Yes, Earth is not Round? not Sphere? not Donut? It's 100% Flat! Find out on this episode! We will talk about the Flat Earth Theory, Moon Landing Conspiracies, NASA, and many more. Enjoy! ]]></googleplay:description>
+                                    <googleplay:image href="https://jjlabajo.com/ayawmopaminaw/cover+arts/AMP+Episode+6.png"></googleplay:image>
+                            </item>
+                    <item>
+                <title><![CDATA[Ep5 - Teacher's Pet]]></title>
+                <pubDate>Thu, 11 Mar 2021 00:03:00 +0000</pubDate>
+                <dc:creator>Ayaw Mo Paminaw</dc:creator>
+                <guid isPermaLink="true">https://jjlabajo.com/ayawmopaminaw/Episode+5.mp3</guid>
+                <description><![CDATA[<p>Yes, Teacher's Pet, a meme description for a student who will go to many lengths to look impressive towards to his/her teacher or to another person of higher social standing. Welcome to our another Pet Peeves series now highlighting what annoys us during our School days. Let's look back and reminisce the good old days as we share our different funny stories that for sure you can relate to. </p>]]></description>
+                <itunes:subtitle><![CDATA[Yes, Teacher's Pet, a meme description for a student who will go to many lengths to look impressive towards to his/her teacher or to another person of higher social standing. Welcome to our another Pet Peeves series now highlighting what annoys us during our School days. Let's look back and reminisce the good old days as we share our different funny stories that for sure you can relate to. ]]></itunes:subtitle>
+                                    <itunes:episodeType>full</itunes:episodeType>
+                                <itunes:title><![CDATA[Ep5 - Teacher's Pet]]></itunes:title>
+                                    <itunes:episode>5</itunes:episode>
+                                                    <itunes:season>1</itunes:season>
+                                <content:encoded><![CDATA[<p>Yes, Teacher's Pet, a meme description for a student who will go to many lengths to look impressive towards to his/her teacher or to another person of higher social standing. Welcome to our another Pet Peeves series now highlighting what annoys us during our School days. Let's look back and reminisce the good old days as we share our different funny stories that for sure you can relate to. </p>]]></content:encoded>
+                                    <enclosure url="https://jjlabajo.com/ayawmopaminaw/episodes/5.mp3" length="01:07:24" type="audio/x-mp3"/>
+                                <itunes:summary><![CDATA[Yes, Teacher's Pet, a meme description for a student who will go to many lengths to look impressive towards to his/her teacher or to another person of higher social standing. Welcome to our another Pet Peeves series now highlighting what annoys us during our School days. Let's look back and reminisce the good old days as we share our different funny stories that for sure you can relate to. ]]></itunes:summary>
+                                    <itunes:image href="https://jjlabajo.com/ayawmopaminaw/cover+arts/AMP+Episode+5.png"></itunes:image>
+                                                                            <itunes:duration>01:07:24</itunes:duration>
+                                                    <itunes:author><![CDATA[Ayaw Mo Paminaw]]></itunes:author>
+                <googleplay:description><![CDATA[Yes, Teacher's Pet, a meme description for a student who will go to many lengths to look impressive towards to his/her teacher or to another person of higher social standing. Welcome to our another Pet Peeves series now highlighting what annoys us during our School days. Let's look back and reminisce the good old days as we share our different funny stories that for sure you can relate to. ]]></googleplay:description>
+                                    <googleplay:image href="https://jjlabajo.com/ayawmopaminaw/cover+arts/AMP+Episode+5.png"></googleplay:image>
+                            </item>
+                            <item>
+                <title><![CDATA[Ep4 - Urom.jpeg]]></title>
+                <pubDate>Mon, 06 Mar 2021 00:38:00 +0000</pubDate>
+                <dc:creator>Ayaw Mo Paminaw</dc:creator>
+                <guid isPermaLink="true">https://jjlabajo.com/ayawmopaminaw/Episode+4.m4a</guid>
+                <description><![CDATA[<p>What your dreams are telling you? "Urom" is a Bisaya word for Nightmares or Sleep Paralysis. Join us in our adventure to the Dream world talking about Meaning of Dreams,  Sleep Paralysis, Lucid Dreaming,  Astral Projection and more.</p>]]></description>
+                <itunes:subtitle><![CDATA[What your dreams are telling you? "Urom" is a Bisaya word for Nightmares or Sleep Paralysis. Join us in our adventure to the Dream world talking about Meaning of Dreams,  Sleep Paralysis, Lucid Dreaming,  Astral Projection and more.]]></itunes:subtitle>
+                                    <itunes:episodeType>full</itunes:episodeType>
+                                <itunes:title><![CDATA[Ep4 - Urom.jpeg]]></itunes:title>
+                                    <itunes:episode>4</itunes:episode>
+                                                    <itunes:season>1</itunes:season>
+                                <content:encoded><![CDATA[<p>What your dreams are telling you? "Urom" is a Bisaya word for Nightmares or Sleep Paralysis. Join us in our adventure to the Dream world talking about Meaning of Dreams,  Sleep Paralysis, Lucid Dreaming,  Astral Projection and more.</p>]]></content:encoded>
+                                    <enclosure url="https://jjlabajo.com/ayawmopaminaw/episodes/4.mp3" length="01:05:47" type="audio/x-mp3"/>
+                                <itunes:summary><![CDATA[What your dreams are telling you? "Urom" is a Bisaya word for Nightmares or Sleep Paralysis. Join us in our adventure to the Dream world talking about Meaning of Dreams,  Sleep Paralysis, Lucid Dreaming,  Astral Projection and more.]]></itunes:summary>
+                                    <itunes:image href="https://jjlabajo.com/ayawmopaminaw/cover+arts/AMP+Episode+4.png"></itunes:image>
+                                                                            <itunes:duration>01:05:47</itunes:duration>
+                                                    <itunes:author><![CDATA[Ayaw Mo Paminaw]]></itunes:author>
+                <googleplay:description><![CDATA[What your dreams are telling you? "Urom" is a Bisaya word for Nightmares or Sleep Paralysis. Join us in our adventure to the Dream world talking about Meaning of Dreams,  Sleep Paralysis, Lucid Dreaming,  Astral Projection and more.]]></googleplay:description>
+                                    <googleplay:image href="https://jjlabajo.com/ayawmopaminaw/cover+arts/AMP+Episode+4.png"></googleplay:image>
+                            </item>
+                                    <item>
+                <title><![CDATA[Ep3 - Maong Di Ta Bisitahog Alien]]></title>
+                <pubDate>Mon, 01 Mar 2021 18:01:00 +0000</pubDate>
+                <dc:creator>Ayaw Mo Paminaw</dc:creator>
+                <guid isPermaLink="true">https://jjlabajo.com/ayawmopaminaw/Recording-10-.m4a</guid>
+                <description><![CDATA[<p>Bisaya Translation for the meme "That's why Aliens won't visit us" jokingly saying that we're stupid enough for aliens to interact with us. We may be are just ants to THEM, not worthy of their time or so we thought? Enjoy our show exploring the possibilities that Aliens are might REAL.</p>]]></description>
+                <itunes:subtitle><![CDATA[Bisaya Translation for the meme "That's why Aliens won't visit us" jokingly saying that we're stupid enough for aliens to interact with us. We may be are just ants to THEM, not worthy of their time or so we thought? Enjoy our show exploring the possibilities that Aliens are might REAL.]]></itunes:subtitle>
+                                    <itunes:episodeType>full</itunes:episodeType>
+                                <itunes:title><![CDATA[Ep3 - Maong Di Ta Bisitahog Alien]]></itunes:title>
+                                    <itunes:episode>3</itunes:episode>
+                                                    <itunes:season>1</itunes:season>
+                                <content:encoded><![CDATA[<p>Bisaya Translation for the meme "That's why Aliens won't visit us" jokingly saying that we're stupid enough for aliens to interact with us. We may be are just ants to THEM, not worthy of their time or so we thought? Enjoy our show exploring the possibilities that Aliens are might REAL.</p>]]></content:encoded>
+                                    <enclosure url="https://jjlabajo.com/ayawmopaminaw/episodes/3.mp3" length="01:01:03" type="audio/x-mp3"/>
+                                <itunes:summary><![CDATA[Bisaya Translation for the meme "That's why Aliens won't visit us" jokingly saying that we're stupid enough for aliens to interact with us. We may be are just ants to THEM, not worthy of their time or so we thought? Enjoy our show exploring the possibilities that Aliens are might REAL.]]></itunes:summary>
+                                    <itunes:image href="https://jjlabajo.com/ayawmopaminaw/cover+arts/AMP+Episode+3.png"></itunes:image>
+                                                                            <itunes:duration>01:01:03</itunes:duration>
+                                                    <itunes:author><![CDATA[Ayaw Mo Paminaw]]></itunes:author>
+                <googleplay:description><![CDATA[Bisaya Translation for the meme "That's why Aliens won't visit us" jokingly saying that we're stupid enough for aliens to interact with us. We may be are just ants to THEM, not worthy of their time or so we thought? Enjoy our show exploring the possibilities that Aliens are might REAL.]]></googleplay:description>
+                                    <googleplay:image href="https://jjlabajo.com/ayawmopaminaw/cover+arts/AMP+Episode+3.png"></googleplay:image>
+                            </item>
+                    <item>
+                <title><![CDATA[Ep2 - "Loslos ninyo Girls"]]></title>
+                <pubDate>Mon, 22 Feb 2021 12:44:00 +0000</pubDate>
+                <dc:creator>Ayaw Mo Paminaw</dc:creator>
+                <guid isPermaLink="true">https://jjlabajo.com/ayawmopaminaw/Podcast-Episode-2.m4a</guid>
+                <description><![CDATA[<p>"Loslos ninyo Girls" is a Bisaya meme that sarcastically teases girls about how troublesome they are in a relationship but still we can't help to love them nevertheless. Please enjoy the show.</p>]]></description>
+                <itunes:subtitle><![CDATA["Loslos ninyo Girls" is a Bisaya meme that sarcastically teases girls about how troublesome they are in a relationship but still we can't help to love them nevertheless. Please enjoy the show.]]></itunes:subtitle>
+                                    <itunes:episodeType>full</itunes:episodeType>
+                                <itunes:title><![CDATA[Ep2 - "Loslos ninyo Girls"]]></itunes:title>
+                                    <itunes:episode>2</itunes:episode>
+                                                    <itunes:season>1</itunes:season>
+                                <content:encoded><![CDATA[<p>"Loslos ninyo Girls" is a Bisaya meme that sarcastically teases girls about how troublesome they are in a relationship but still we can't help to love them nevertheless. Please enjoy the show.</p>]]></content:encoded>
+                                    <enclosure url="https://jjlabajo.com/ayawmopaminaw/episodes/2.mp3" length="00:59:43" type="audio/x-mp3"/>
+                                <itunes:summary><![CDATA["Loslos ninyo Girls" is a Bisaya meme that sarcastically teases girls about how troublesome they are in a relationship but still we can't help to love them nevertheless. Please enjoy the show.]]></itunes:summary>
+                                    <itunes:image href="https://jjlabajo.com/ayawmopaminaw/cover+arts/AMP+Cover+Art.png"></itunes:image>
+                                                                            <itunes:duration>00:59:43</itunes:duration>
+                                                    <itunes:author><![CDATA[Ayaw Mo Paminaw]]></itunes:author>
+                <googleplay:description><![CDATA["Loslos ninyo Girls" is a Bisaya meme that sarcastically teases girls about how troublesome they are in a relationship but still we can't help to love them nevertheless. Please enjoy the show.]]></googleplay:description>
+                                    <googleplay:image href="https://jjlabajo.com/ayawmopaminaw/cover+arts/AMP+Cover+Art.png"></googleplay:image>
+                            </item>
+                    <item>
+                <title><![CDATA[Ep1 - Social Media Pet Peeves]]></title>
+                <pubDate>Mon, 22 Feb 2021 12:44:00 +0000</pubDate>
+                <dc:creator>Ayaw Mo Paminaw</dc:creator>
+                <guid isPermaLink="true">https://jjlabajo.com/ayawmopaminaw/Podcast-Episode-1.mp3</guid>
+                <description><![CDATA[<p>Bisaya podcast about Social Media Pet Peeves. Social Media Pet Peeves are things that people post unknowingly making other people annoy in someway while scrolling to any social media platform. So in Bisaya, we explain our social media pet peeves and we know some of you may relate.</p>]]></description>
+                <itunes:subtitle><![CDATA[Bisaya podcast about Social Media Pet Peeves. Social Media Pet Peeves are things that people post unknowingly making other people annoy in someway while scrolling to any social media platform. So in Bisaya, we explain our social media pet peeves and we know some of you may relate.]]></itunes:subtitle>
+                                    <itunes:episodeType>full</itunes:episodeType>
+                                <itunes:title><![CDATA[Ep1 - Social Media Pet Peeves]]></itunes:title>
+                                    <itunes:episode>2</itunes:episode>
+                                                    <itunes:season>1</itunes:season>
+                                <content:encoded><![CDATA[<p>Bisaya podcast about Social Media Pet Peeves. Social Media Pet Peeves are things that people post unknowingly making other people annoy in someway while scrolling to any social media platform. So in Bisaya, we explain our social media pet peeves and we know some of you may relate.</p>]]></content:encoded>
+                                    <enclosure url="https://jjlabajo.com/ayawmopaminaw/episodes/1.mp3" length="00:59:43" type="audio/x-mp3"/>
+                                <itunes:summary><![CDATA[Bisaya podcast about Social Media Pet Peeves. Social Media Pet Peeves are things that people post unknowingly making other people annoy in someway while scrolling to any social media platform. So in Bisaya, we explain our social media pet peeves and we know some of you may relate.]]></itunes:summary>
+                                    <itunes:image href="https://jjlabajo.com/ayawmopaminaw/cover+arts/AMP+Cover+Art.png"></itunes:image>
+                                                                            <itunes:duration>00:59:43</itunes:duration>
+                                                    <itunes:author><![CDATA[Ayaw Mo Paminaw]]></itunes:author>
+                <googleplay:description><![CDATA[Bisaya podcast about Social Media Pet Peeves. Social Media Pet Peeves are things that people post unknowingly making other people annoy in someway while scrolling to any social media platform. So in Bisaya, we explain our social media pet peeves and we know some of you may relate.]]></googleplay:description>
+                                    <googleplay:image href="https://jjlabajo.com/ayawmopaminaw/cover+arts/AMP+Cover+Art.png"></googleplay:image>
+                            </item>
+            </channel>
+</rss>
