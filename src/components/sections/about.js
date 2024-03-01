@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 import React, { useEffect, useRef } from 'react';
 import { StaticImage } from 'gatsby-plugin-image';
 import styled from 'styled-components';
@@ -139,7 +141,7 @@ const About = () => {
               tailored to their specific needs.
             </p>
             <p>
-              With over 4 years of experience in the field, I have a deep understanding of the
+              With over 5 years of experience in the field, I have a deep understanding of the
               latest technologies and tools that are used to build applications and platforms. I
               have the skills and knowledge to create platforms that are user-friendly, efficient,
               and scalable, making sure that the final product meets the customer's expectations.
